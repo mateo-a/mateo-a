@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Systems Engineer with emphasis in Software :man_technologist:, ITIL Foundation certificate, CompTia Network+ certificate, PMP project management training, SCRUM Foundation certificate, proficient in the use programing languages like `C, C++, Python, REACT, JavaScript, CSS, HTML, SQL`, as well `Flutter, Linux/Unix systems, bash, scripting, GIT, Windows Server, GCP, frameworks like Node.js` and `Flask, NGINX,` **currently going in-depth in Augmented and Virtual Reality (AR/VR)** using `C#` and `UNITY`, huge experience working and supporting infrastructure projects related to datacenters, WLAN, LAN and Networking.
+
+### Where to find me
+<a href="https://www.linkedin.com/in/john-alexander-urrego/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/mateo_a">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+</a>
