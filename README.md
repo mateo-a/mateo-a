@@ -38,7 +38,7 @@ I am a Systems Engineer with emphasis in Software :man_technologist:, ITIL Found
 </br>
 And more...
 
-##📊&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b>
+📊&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b>
 	<br/>
 	<img src="https://jf-gh-stats.vercel.app/api?username=mateo-a&show_icons=true&count_private=true" alt="GitHub Stats" align="top"/>
 	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=mateo-a&layout=compact" alt="GitHub Top Languages" align="top"/>
