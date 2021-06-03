@@ -38,6 +38,13 @@ I am a Systems Engineer with emphasis in Software :man_technologist:, ITIL Found
 </br>
 And more...
 
+<details>
+	<summary>📊&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+	<br/>
+	<img src="https://jf-gh-stats.vercel.app/api?username=mateo-a&show_icons=true&count_private=true" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=mateo-a&layout=compact" alt="GitHub Top Languages" align="top"/>
+</details>
+
 ## Where to find me
 <a href="https://www.linkedin.com/in/john-alexander-urrego/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
