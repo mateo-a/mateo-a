@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=mateo-a.mateo-a)
+[![Github](https://img.shields.io/github/followers/mateo-a?label=Follow&style=social)](https://github.com/mateo-a)
 # Hi there 👋 I am Alexander :raising_hand_man:
 
 <!--
